@@ -169,7 +169,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇10 ·  ⭐ 1.2K · 💤) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,295 | 🐛 25 | 🌐 Python | 📅 2026-07-30 (👨‍💻 8 · 🔀 53):
+* [GitHub](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,295 | 🐛 26 | 🌐 Python | 📅 2026-07-30 (👨‍💻 8 · 🔀 53):
 
   ```
   git clone https://github.com/ml-tooling/best-of-python-dev
@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 495,049 | 🐛 100 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 495,118 | 🐛 100 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
