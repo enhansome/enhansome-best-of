@@ -18,9 +18,9 @@
     <a href="https://github.com/best-of-lists/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of?color=green&label=updated"></a>
 </p>
 
-This curated list contains 22 best-of lists with a total of 31K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13, submit a [pull request](https://github.com/best-of-lists/best-of/pulls) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13, or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13. Contributions are very welcome!
+This curated list contains 22 best-of lists with a total of 31K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13, submit a [pull request](https://github.com/best-of-lists/best-of/pulls) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13, or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13. Contributions are very welcome!
 
-> 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13.
+> 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13.
 
 ## Contents
 
@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 1 | 🌐 Makefile | 📅 2026-08-13 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 0 | 🌐 Makefile | 📅 2026-08-14 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -279,18 +279,18 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 495,497 | 🐛 100 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 495,866 | 🐛 100 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13 and fill in the requested information.
-* Modify the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13.
+* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13 and fill in the requested information.
+* Modify the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13.
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 110 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13.
+If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 110 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13.
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/best-of-lists/best-of/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 1,883 | 🐛 21 | 📅 2026-08-13.
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/best-of-lists/best-of/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 1,884 | 🐛 21 | 📅 2026-08-13.
 
 ## License
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
