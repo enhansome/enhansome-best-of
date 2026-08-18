@@ -99,7 +99,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary><b><a href="https://github.com/fkromer/best-of-django">best-of-django</a></b> (🥉8 ·  ⭐ 140) - A ranked list of awesome Django related Python packages. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/fkromer/best-of-django) ⭐ 140 | 🐛 1 | 📅 2026-08-01 (👨‍💻 5 · 🔀 15):
+* [GitHub](https://github.com/fkromer/best-of-django) ⭐ 141 | 🐛 1 | 📅 2026-08-01 (👨‍💻 5 · 🔀 15):
 
   ```
   git clone https://github.com/fkromer/best-of-django
@@ -186,7 +186,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K) - A list of awesome MkDocs projects and plugins.</summary>
 
-* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,784 | 🐛 58 | 🌐 Python | 📅 2026-08-13 (👨‍💻 63 · 🔀 120):
+* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,783 | 🐛 58 | 🌐 Python | 📅 2026-08-13 (👨‍💻 63 · 🔀 120):
 
   ```
   git clone https://github.com/mkdocs/catalog
@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 2 | 🌐 Makefile | 📅 2026-08-16 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 3 | 🌐 Makefile | 📅 2026-08-17 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -267,7 +267,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 22) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
-* [GitHub](https://github.com/jinningwang/best-of-ps) ⭐ 24 | 🐛 0 | 📅 2026-03-24 (👨‍💻 9 · 🔀 1):
+* [GitHub](https://github.com/jinningwang/best-of-ps) ⭐ 25 | 🐛 0 | 📅 2026-03-24 (👨‍💻 9 · 🔀 1):
 
   ```
   git clone https://github.com/jinningwang/best-of-ps
@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 496,684 | 🐛 100 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,084 | 🐛 103 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
