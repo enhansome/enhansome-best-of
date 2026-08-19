@@ -64,7 +64,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥈10 ·  ⭐ 1.1K · 💤) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,225 | 🐛 20 | 📅 2026-08-13 (👨‍💻 14 · 🔀 90):
+* [GitHub](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,226 | 🐛 20 | 📅 2026-08-13 (👨‍💻 14 · 🔀 90):
 
   ```
   git clone https://github.com/ml-tooling/best-of-jupyter
@@ -186,7 +186,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K) - A list of awesome MkDocs projects and plugins.</summary>
 
-* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,783 | 🐛 58 | 🌐 Python | 📅 2026-08-13 (👨‍💻 63 · 🔀 120):
+* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,784 | 🐛 58 | 🌐 Python | 📅 2026-08-13 (👨‍💻 63 · 🔀 120):
 
   ```
   git clone https://github.com/mkdocs/catalog
@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 3 | 🌐 Makefile | 📅 2026-08-17 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 4 | 🌐 Makefile | 📅 2026-08-18 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,084 | 🐛 103 | 📅 2026-06-30: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,520 | 🐛 102 | 📅 2026-08-18: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
