@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Best-of lists about Robots or other topics related to robot development.",
-      "items": [],
-      "title": "Robot Development"
-    },
-    {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322399089,
             "language": null,
             "last_commit": "2026-08-13T19:13:51Z",
             "owner": "best-of-lists",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322399089,
             "language": null,
             "last_commit": "2026-08-13T19:13:51Z",
             "owner": "best-of-lists",
@@ -38,16 +35,12 @@
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:01:29.046Z",
+    "last_updated": "2026-08-19T12:16:49.082Z",
     "original_repository": "best-of-lists/best-of",
+    "original_repository_id": 322399089,
     "original_repository_sha": "c8e2408a17f6364745f961ad007c4c37847698ab",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,
