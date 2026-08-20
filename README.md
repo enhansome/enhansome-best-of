@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 4 | 🌐 Makefile | 📅 2026-08-18 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 1 | 🌐 Makefile | 📅 2026-08-19 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 497,902 | 🐛 104 | 📅 2026-08-18: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
