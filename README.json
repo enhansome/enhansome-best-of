@@ -12,7 +12,7 @@
             "archived": false,
             "id": 322399089,
             "language": null,
-            "last_commit": "2026-08-13T19:13:51Z",
+            "last_commit": "2026-08-20T21:41:12Z",
             "owner": "best-of-lists",
             "repo": "best-of",
             "stars": 1889
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 322399089,
             "language": null,
-            "last_commit": "2026-08-13T19:13:51Z",
+            "last_commit": "2026-08-20T21:41:12Z",
             "owner": "best-of-lists",
             "repo": "best-of",
             "stars": 1889
@@ -38,10 +38,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:01:54.158Z",
+    "last_updated": "2026-08-21T06:03:00.872Z",
     "original_repository": "best-of-lists/best-of",
     "original_repository_id": 322399089,
-    "original_repository_sha": "c8e2408a17f6364745f961ad007c4c37847698ab",
+    "original_repository_sha": "9a5a37ba0e31890a9bbb2662ac144afec93a77fe",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,
     "title": "Awesome best of with stars"
