@@ -169,7 +169,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-python-dev">best-of-python-dev</a></b> (🥇10 ·  ⭐ 1.2K · 💤) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,297 | 🐛 27 | 🌐 Python | 📅 2026-08-21 (👨‍💻 9 · 🔀 53):
+* [GitHub](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,298 | 🐛 27 | 🌐 Python | 📅 2026-08-21 (👨‍💻 9 · 🔀 53):
 
   ```
   git clone https://github.com/ml-tooling/best-of-python-dev
@@ -186,7 +186,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K) - A list of awesome MkDocs projects and plugins.</summary>
 
-* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,783 | 🐛 60 | 🌐 Python | 📅 2026-08-20 (👨‍💻 63 · 🔀 120):
+* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,784 | 🐛 60 | 🌐 Python | 📅 2026-08-20 (👨‍💻 63 · 🔀 120):
 
   ```
   git clone https://github.com/mkdocs/catalog
@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 1 | 🌐 Makefile | 📅 2026-08-21 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 2 | 🌐 Makefile | 📅 2026-08-22 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -267,7 +267,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 24) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
-* [GitHub](https://github.com/jinningwang/best-of-ps) ⭐ 25 | 🐛 0 | 📅 2026-03-24 (👨‍💻 9 · 🔀 1):
+* [GitHub](https://github.com/jinningwang/best-of-ps) ⭐ 26 | 🐛 0 | 📅 2026-03-24 (👨‍💻 9 · 🔀 1):
 
   ```
   git clone https://github.com/jinningwang/best-of-ps
@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 498,724 | 🐛 105 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 499,043 | 🐛 106 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
