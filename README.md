@@ -279,7 +279,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 499,699 | 🐛 106 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
