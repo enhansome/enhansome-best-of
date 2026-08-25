@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/best-of-jupyter",
           "description": "(👨‍💻 14 · 🔀 90):",
           "children": [],
           "repo_info": {
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23730
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-28T01:43:05Z",
             "owner": "jrieke",
             "repo": "best-of-streamlit",
-            "stars": 1408
+            "stars": 1409
           }
         },
         {
@@ -107,7 +107,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/best-of-web-python",
           "description": "(👨‍💻 17 · 🔀 190):",
           "children": [],
           "repo_info": {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2749
+            "stars": 2750
           }
         }
       ],
@@ -128,7 +128,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fkromer/best-of-django",
           "description": "(👨‍💻 5 · 🔀 15):",
           "children": [],
           "repo_info": {
@@ -149,7 +149,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fkromer/best-of-fastapi",
           "description": "(👨‍💻 4 · 🔀 2):",
           "children": [],
           "repo_info": {
@@ -227,7 +227,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fkromer/best-of-rust-on-embedded-linux",
           "description": "(👨‍💻 4 · 🔀 2):",
           "children": [],
           "repo_info": {
@@ -248,7 +248,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/best-of-python-dev",
           "description": "(👨‍💻 9 · 🔀 53):",
           "children": [],
           "repo_info": {
@@ -269,7 +269,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mkdocs/catalog",
           "description": "(👨‍💻 63 · 🔀 120):",
           "children": [],
           "repo_info": {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-20T18:44:19Z",
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1785
+            "stars": 1786
           }
         }
       ],
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-23T18:40:59Z",
+            "last_commit": "2026-08-24T18:52:51Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 590
@@ -311,7 +311,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stkeky/best-of-scala",
           "description": "(👨‍💻 18 · 🔀 25):",
           "children": [],
           "repo_info": {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4579
+            "stars": 4582
           }
         }
       ],
@@ -353,7 +353,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jruizaranguren/best-of-digital-identity",
           "description": "(👨‍💻 7 · 🔀 16):",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             "last_commit": "2024-07-12T09:36:46Z",
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 550
+            "stars": 549
           }
         }
       ],
@@ -395,14 +395,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "thumbor/awesome-thumbor",
           "description": "(👨‍💻 5 · 🔀 4):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 451259065,
             "language": "Makefile",
-            "last_commit": "2026-08-24T12:05:39Z",
+            "last_commit": "2026-08-24T20:36:27Z",
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82
@@ -416,7 +416,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jinningwang/best-of-ps",
           "description": "(👨‍💻 9 · 🔀 1):",
           "children": [],
           "repo_info": {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-20T21:41:12Z",
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1890
+            "stars": 1891
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-20T21:41:12Z",
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1890
+            "stars": 1891
           }
         }
       ],
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:43.120Z",
+    "last_updated": "2026-08-25T06:01:04.798Z",
     "original_repository": "best-of-lists/best-of",
     "original_repository_id": 322399089,
     "original_repository_sha": "9a5a37ba0e31890a9bbb2662ac144afec93a77fe",
