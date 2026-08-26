@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:41:32Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1227
+            "stars": 1229
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23730
+            "stars": 23732
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2750
+            "stars": 2751
           }
         }
       ],
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-20T18:44:19Z",
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1786
+            "stars": 1787
           }
         }
       ],
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-24T18:52:51Z",
+            "last_commit": "2026-08-25T18:51:39Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 590
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-20T18:58:44Z",
             "owner": "stkeky",
             "repo": "best-of-scala",
-            "stars": 293
+            "stars": 294
           }
         }
       ],
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4582
+            "stars": 4581
           }
         }
       ],
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 451259065,
             "language": "Makefile",
-            "last_commit": "2026-08-24T20:36:27Z",
+            "last_commit": "2026-08-25T20:36:32Z",
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:07.177Z",
+    "last_updated": "2026-08-26T06:04:40.904Z",
     "original_repository": "best-of-lists/best-of",
     "original_repository_id": 322399089,
     "original_repository_sha": "9a5a37ba0e31890a9bbb2662ac144afec93a77fe",
