@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:41:32Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1229
+            "stars": 1230
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23732
+            "stars": 23733
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-20T21:41:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2751
+            "stars": 2753
           }
         }
       ],
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-20T18:44:19Z",
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1787
+            "stars": 1788
           }
         }
       ],
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-25T18:51:39Z",
+            "last_commit": "2026-08-26T19:57:00Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 590
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4581
+            "stars": 4583
           }
         }
       ],
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 451259065,
             "language": "Makefile",
-            "last_commit": "2026-08-25T20:36:32Z",
+            "last_commit": "2026-08-26T22:48:49Z",
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82
@@ -470,9 +470,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:04:40.904Z",
-    "original_repository": "best-of-lists/best-of",
-    "original_repository_id": 322399089,
+    "last_updated": "2026-08-27T11:26:48.523Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 322399089,
+      "language": null,
+      "last_commit": "2026-08-20T21:41:12Z",
+      "owner": "best-of-lists",
+      "repo": "best-of",
+      "stars": 1891
+    },
     "original_repository_sha": "9a5a37ba0e31890a9bbb2662ac144afec93a77fe",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,

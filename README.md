@@ -18,9 +18,9 @@
     <a href="https://github.com/best-of-lists/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of?color=green&label=updated"></a>
 </p>
 
-This curated list contains 22 best-of lists with a total of 31K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20, submit a [pull request](https://github.com/best-of-lists/best-of/pulls) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20, or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20. Contributions are very welcome!
+This curated list contains 22 best-of lists with a total of 31K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20, submit a [pull request](https://github.com/best-of-lists/best-of/pulls) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20, or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20. Contributions are very welcome!
 
-> 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20.
+> 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
 ## Contents
 
@@ -64,7 +64,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-jupyter">best-of-jupyter</a></b> (🥈10 ·  ⭐ 1.1K · 💤) - A ranked list of awesome Jupyter Notebook, Hub and Lab.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,229 | 🐛 20 | 📅 2026-08-20 (👨‍💻 14 · 🔀 90):
+* [GitHub](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,230 | 🐛 20 | 📅 2026-08-20 (👨‍💻 14 · 🔀 90):
 
   ```
   git clone https://github.com/ml-tooling/best-of-jupyter
@@ -73,8 +73,8 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary>Show 5 hidden projects...</summary>
 
-* <b>[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,732 | 🐛 54 | 📅 2026-08-20</b> (🥇14 ·  ⭐ 16K · 💀) - A ranked list of awesome machine learning Python.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b>[best-of-streamlit](https://github.com/jrieke/best-of-streamlit) ⭐ 1,409 | 🐛 109 | 📅 2024-06-28</b> (🥈10 ·  ⭐ 1.1K · 💀) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,733 | 🐛 55 | 📅 2026-08-20</b> (🥇14 ·  ⭐ 16K · 💀) - A ranked list of awesome machine learning Python.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-streamlit](https://github.com/jrieke/best-of-streamlit) ⭐ 1,409 | 🐛 110 | 📅 2024-06-28</b> (🥈10 ·  ⭐ 1.1K · 💀) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 * <b>[awesome-gpts](https://github.com/taranjeet/awesome-gpts) ⭐ 1,366 | 🐛 5 | 📅 2024-04-21</b> (🥈11 ·  ⭐ 1.4K · 💀) - Collection of all the GPTs created by the community. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 * <b>[best-of-ml-rust](https://github.com/e-tornike/best-of-ml-rust) ⭐ 512 | 🐛 93 | 📅 2026-08-01</b> (🥉7 ·  ⭐ 120 · 💀) - A ranked list of awesome machine learning Rust libraries.
 * <b>[best-of-ml-julia](https://github.com/e-tornike/best-of-ml-julia) ⭐ 25 | 🐛 10 | 📅 2021-11-15</b> (🥉5 ·  ⭐ 6 · 💀) - A ranked list of awesome machine learning Julia libraries.
@@ -90,7 +90,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/ml-tooling/best-of-web-python">best-of-web-python</a></b> (🥇11 ·  ⭐ 2.6K · 💤) - A ranked list of awesome python libraries for web.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,751 | 🐛 16 | 📅 2026-08-20 (👨‍💻 17 · 🔀 190):
+* [GitHub](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,753 | 🐛 15 | 📅 2026-08-20 (👨‍💻 17 · 🔀 190):
 
   ```
   git clone https://github.com/ml-tooling/best-of-web-python
@@ -186,7 +186,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K) - A list of awesome MkDocs projects and plugins.</summary>
 
-* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,787 | 🐛 60 | 🌐 Python | 📅 2026-08-20 (👨‍💻 63 · 🔀 120):
+* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,788 | 🐛 60 | 🌐 Python | 📅 2026-08-20 (👨‍💻 63 · 🔀 120):
 
   ```
   git clone https://github.com/mkdocs/catalog
@@ -195,7 +195,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 590 | 🐛 1 | 🌐 Shell | 📅 2026-08-25</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
+* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 590 | 🐛 1 | 🌐 Shell | 📅 2026-08-26</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
 
 </details>
 <br>
@@ -217,7 +217,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-python](https://github.com/ml-tooling/best-of-python) ⭐ 4,581 | 🐛 47 | 📅 2026-08-20</b> (🥇11 ·  ⭐ 3.6K · 💀) - A ranked list of awesome Python open-source libraries and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-python](https://github.com/ml-tooling/best-of-python) ⭐ 4,583 | 🐛 47 | 📅 2026-08-20</b> (🥇11 ·  ⭐ 3.6K · 💀) - A ranked list of awesome Python open-source libraries and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 
 </details>
 <br>
@@ -258,7 +258,7 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 1 | 🌐 Makefile | 📅 2026-08-25 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 82 | 🐛 1 | 🌐 Makefile | 📅 2026-08-26 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -279,18 +279,18 @@ This curated list contains 22 best-of lists with a total of 31K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 500,000 | 🐛 106 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20 and fill in the requested information.
-* Modify the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20.
+* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/best-of-lists/best-of/issues/new/choose) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20 and fill in the requested information.
+* Modify the [projects.yaml](https://github.com/best-of-lists/best-of/blob/main/projects.yaml) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/best-of-lists/best-of/edit/main/projects.yaml) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 110 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20.
+If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 110 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/best-of-lists/best-of/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 1,891 | 🐛 21 | 📅 2026-08-20.
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/best-of-lists/best-of/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
 ## License
 
@@ -298,4 +298,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
