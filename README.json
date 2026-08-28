@@ -12,11 +12,12 @@
             "archived": false,
             "id": 326066116,
             "language": null,
-            "last_commit": "2026-08-20T21:41:32Z",
+            "last_commit": "2026-08-28T07:06:42Z",
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1230
-          }
+            "stars": 1232
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-jupyter (🥈10 · ⭐ 1.1K · 💤) - A ranked list of awesome Jupyter Notebook, Hub and Lab.."
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 317029148,
             "language": null,
-            "last_commit": "2026-08-20T14:14:49Z",
+            "last_commit": "2026-08-27T17:48:15Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
             "stars": 23733
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "jrieke",
             "repo": "best-of-streamlit",
             "stars": 1409
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2024-04-21T19:47:16Z",
             "owner": "taranjeet",
             "repo": "awesome-gpts",
-            "stars": 1366
-          }
+            "stars": 1367
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "e-tornike",
             "repo": "best-of-ml-julia",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 5 hidden projects..."
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 327002257,
             "language": null,
-            "last_commit": "2026-08-20T21:41:23Z",
+            "last_commit": "2026-08-28T07:07:01Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
             "stars": 2753
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-web-python (🥇11 · ⭐ 2.6K · 💤) - A ranked list of awesome python libraries for web.."
@@ -139,7 +146,8 @@
             "owner": "fkromer",
             "repo": "best-of-django",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-django (🥉8 · ⭐ 140) - A ranked list of awesome Django related Python packages."
@@ -156,11 +164,12 @@
             "archived": false,
             "id": 571210925,
             "language": null,
-            "last_commit": "2026-08-20T20:47:23Z",
+            "last_commit": "2026-08-28T15:57:38Z",
             "owner": "fkromer",
             "repo": "best-of-fastapi",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-fastapi (🥉8 · ⭐ 48) - List of automatically rated Python packages for FastAPI."
@@ -180,8 +189,9 @@
             "last_commit": "2025-08-28T08:50:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1075
-          }
+            "stars": 1076
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -196,7 +206,8 @@
             "owner": "fkromer",
             "repo": "best-of-vue",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 2 hidden projects..."
@@ -217,7 +228,8 @@
             "owner": "fkromer",
             "repo": "best-of-react-native",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -234,11 +246,12 @@
             "archived": false,
             "id": 970932685,
             "language": null,
-            "last_commit": "2026-08-20T20:47:03Z",
+            "last_commit": "2026-08-28T15:57:23Z",
             "owner": "fkromer",
             "repo": "best-of-rust-on-embedded-linux",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-rust-on-embedded-linux (🥇6 · ⭐ 14) - A ranked list of awesome Rust crates and projects.."
@@ -255,11 +268,12 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-21T19:13:12Z",
+            "last_commit": "2026-08-28T07:06:50Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1298
-          }
+            "stars": 1299
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-python-dev (🥇10 · ⭐ 1.2K · 💤) - A ranked list of awesome python developer tools and.."
@@ -276,11 +290,12 @@
             "archived": false,
             "id": 482460432,
             "language": "Python",
-            "last_commit": "2026-08-20T18:44:19Z",
+            "last_commit": "2026-08-28T02:08:59Z",
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1788
-          }
+            "stars": 1789
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-mkdocs (🥇11 · ⭐ 1.7K) - A list of awesome MkDocs projects and plugins."
@@ -297,11 +312,12 @@
             "archived": false,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-26T19:57:00Z",
+            "last_commit": "2026-08-28T02:11:08Z",
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
             "stars": 590
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -318,11 +334,12 @@
             "archived": false,
             "id": 613584811,
             "language": null,
-            "last_commit": "2026-08-20T18:58:44Z",
+            "last_commit": "2026-08-28T02:19:07Z",
             "owner": "stkeky",
             "repo": "best-of-scala",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-scala (🥉10 · ⭐ 290) - A ranked list of awesome Scala projects. Updated weekly."
@@ -339,11 +356,12 @@
             "archived": false,
             "id": 328766021,
             "language": null,
-            "last_commit": "2026-08-27T16:44:36Z",
+            "last_commit": "2026-08-27T20:10:45Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4583
-          }
+            "stars": 4585
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -360,11 +378,12 @@
             "archived": false,
             "id": 626861341,
             "language": null,
-            "last_commit": "2026-08-20T18:38:53Z",
+            "last_commit": "2026-08-28T04:50:39Z",
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-digital-identity (🥇8 · ⭐ 180) - A ranked list of awesome Digital Identity open source.."
@@ -385,7 +404,8 @@
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 1 hidden projects..."
@@ -402,11 +422,12 @@
             "archived": false,
             "id": 451259065,
             "language": "Makefile",
-            "last_commit": "2026-08-26T22:48:49Z",
+            "last_commit": "2026-08-28T13:33:20Z",
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "thumbor/awesome-thumbor (🥇7 · ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly."
@@ -417,7 +438,7 @@
         {
           "node_type": "item",
           "title": "jinningwang/best-of-ps",
-          "description": "(👨‍💻 9 · 🔀 1):",
+          "description": "(👨‍💻 7 · 🔀 1):",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -427,7 +448,8 @@
             "owner": "jinningwang",
             "repo": "best-of-ps",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "best-of-ps (🥉6 · ⭐ 24) - A weekly updated ranked list of popular open-source libraries and tools for.."
@@ -444,11 +466,12 @@
             "archived": false,
             "id": 322399089,
             "language": null,
-            "last_commit": "2026-08-20T21:41:12Z",
+            "last_commit": "2026-08-28T07:07:10Z",
             "owner": "best-of-lists",
             "repo": "best-of",
             "stars": 1891
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         },
         {
           "node_type": "item",
@@ -459,28 +482,29 @@
             "archived": false,
             "id": 322399089,
             "language": null,
-            "last_commit": "2026-08-20T21:41:12Z",
+            "last_commit": "2026-08-28T07:07:10Z",
             "owner": "best-of-lists",
             "repo": "best-of",
             "stars": 1891
-          }
+          },
+          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:48:18.407Z",
+    "last_updated": "2026-08-28T17:42:21.323Z",
     "original_repository_info": {
       "archived": false,
       "id": 322399089,
       "language": null,
-      "last_commit": "2026-08-20T21:41:12Z",
+      "last_commit": "2026-08-28T07:07:10Z",
       "owner": "best-of-lists",
       "repo": "best-of",
       "stars": 1891
     },
-    "original_repository_sha": "9a5a37ba0e31890a9bbb2662ac144afec93a77fe",
+    "original_repository_sha": "d73e2995f8fcd1a466131e2c226bdb6b7609b48e",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,
     "title": "Awesome best of with stars"
