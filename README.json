@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
+            "homepage": null,
             "id": 326066116,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:06:42Z",
+            "open_issues": 20,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1232
+            "stars": 1232,
+            "topics": [
+              "awesome",
+              "best-of",
+              "best-of-list",
+              "collections",
+              "deep-learning",
+              "jupyter",
+              "jupyter-extension",
+              "jupyter-kernels",
+              "jupyter-notebook",
+              "jupyter-notebook-extension",
+              "jupyter-widget",
+              "jupyterhub",
+              "jupyterhub-authenticator",
+              "jupyterhub-spawner",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "machine-learning",
+              "notebook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -32,12 +58,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+            "homepage": "https://ml-python.best-of.org",
             "id": 317029148,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-27T17:48:15Z",
+            "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23733
+            "stars": 23733,
+            "topics": [
+              "automl",
+              "chatgpt",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "data-visualizations",
+              "deep-learning",
+              "gpt",
+              "gpt-3",
+              "jax",
+              "keras",
+              "machine-learning",
+              "ml",
+              "nlp",
+              "python",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -48,12 +99,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked gallery of awesome streamlit apps built by the community",
+            "homepage": null,
             "id": 328044111,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-06-28T01:43:05Z",
+            "open_issues": 110,
             "owner": "jrieke",
             "repo": "best-of-streamlit",
-            "stars": 1409
+            "stars": 1409,
+            "topics": [
+              "best-of",
+              "best-of-list",
+              "dashboard",
+              "deep-learning",
+              "machine-learning",
+              "streamlit",
+              "streamlit-component",
+              "streamlit-webapp",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -64,12 +130,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of all the GPTs created by the community",
+            "homepage": null,
             "id": 717123449,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-21T19:47:16Z",
+            "open_issues": 5,
             "owner": "taranjeet",
             "repo": "awesome-gpts",
-            "stars": 1367
+            "stars": 1367,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "chatgpt",
+              "gpts",
+              "gptstore",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -80,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome machine learning Rust libraries.",
+            "homepage": null,
             "id": 337370263,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-01T10:47:06Z",
+            "open_issues": 93,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -96,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome machine learning Julia libraries.",
+            "homepage": null,
             "id": 337373459,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2021-11-15T12:28:02Z",
+            "open_issues": 10,
             "owner": "e-tornike",
             "repo": "best-of-ml-julia",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -118,12 +207,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆  A ranked list of awesome python libraries for web development. Updated weekly.",
+            "homepage": "https://web-python.best-of.org",
             "id": 327002257,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:07:01Z",
+            "open_issues": 15,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2753
+            "stars": 2753,
+            "topics": [
+              "api",
+              "awesome",
+              "best-of",
+              "best-of-list",
+              "django",
+              "django-rest-framework",
+              "fastapi",
+              "flask",
+              "flask-restful",
+              "framework",
+              "graphql",
+              "html",
+              "http",
+              "library",
+              "openapi",
+              "pyramid",
+              "python",
+              "rest-api",
+              "serverless",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -140,12 +255,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ranked list of awesome Django related Python packages.",
+            "homepage": "https://florian-kromer.eu",
             "id": 545667232,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-01T05:32:15Z",
+            "open_issues": 1,
             "owner": "fkromer",
             "repo": "best-of-django",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "best-of-list",
+              "django",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -162,12 +286,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of automatically rated Python packages for FastAPI.",
+            "homepage": "https://florian-kromer.eu",
             "id": 571210925,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T15:57:38Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "best-of-fastapi",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "best-of-list",
+              "fastapi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -184,12 +317,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.",
+            "homepage": null,
             "id": 340900698,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T08:50:49Z",
+            "open_issues": 20,
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1076
+            "stars": 1076,
+            "topics": [
+              "ant-design",
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "best-of-list",
+              "bootstrap",
+              "gatsby",
+              "gatsbyjs",
+              "material-design",
+              "material-ui",
+              "nextjs",
+              "react",
+              "react-component",
+              "react-components",
+              "react-redux",
+              "reactjs",
+              "web-development",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -200,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "List of automatically rated Vue projects.",
+            "homepage": "https://florian-kromer.eu",
             "id": 573854548,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-05-22T19:34:26Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "best-of-vue",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -222,12 +384,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "List of automatically rated React Native projects.",
+            "homepage": "https://florian-kromer.eu",
             "id": 634637882,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-05-22T19:33:45Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "best-of-react-native",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "best-of-list",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -244,12 +414,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ranked list of awesome Rust crates and projects suitable for the embedded Linux/Unix domain.",
+            "homepage": null,
             "id": 970932685,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T15:57:23Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "best-of-rust-on-embedded-linux",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "embedded-linux",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -266,12 +444,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
+            "homepage": "https://python-dev.best-of.org",
             "id": 327929724,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:06:50Z",
+            "open_issues": 28,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1299
+            "stars": 1299,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "best-of-list",
+              "conda",
+              "debugging",
+              "developer-tools",
+              "flake8",
+              "formatter",
+              "linter",
+              "linters",
+              "mkdocs",
+              "pip",
+              "pylint",
+              "pytest",
+              "python",
+              "python-devtools",
+              "refactoring",
+              "sphinx",
+              "style-checkers"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -288,12 +492,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":trophy: :books: A list of awesome MkDocs projects and plugins. ",
+            "homepage": null,
             "id": 482460432,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T02:08:59Z",
+            "open_issues": 61,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1789
+            "stars": 1790,
+            "topics": [
+              "best-of",
+              "best-of-list",
+              "mkdocs"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -310,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ranked list of awesome digital gardens / second brains",
+            "homepage": null,
             "id": 484127372,
             "language": "Shell",
-            "last_commit": "2026-08-28T02:11:08Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-29T01:43:38Z",
+            "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 590
+            "stars": 590,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -332,12 +550,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome Scala projects. Updated weekly.",
+            "homepage": null,
             "id": 613584811,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T02:19:07Z",
+            "open_issues": 5,
             "owner": "stkeky",
             "repo": "best-of-scala",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "scala",
+              "scalajs"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -354,12 +580,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
+            "homepage": "https://python.best-of.org",
             "id": 328766021,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-27T20:10:45Z",
+            "open_issues": 47,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4585
+            "stars": 4585,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "best-of-list",
+              "cli",
+              "collections",
+              "data-structures",
+              "library",
+              "pypi",
+              "python",
+              "python-framework",
+              "python-libraries",
+              "python-library",
+              "python-utilities",
+              "utilities",
+              "utility-library"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -376,12 +624,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ranked list of awesome Digital Identity open source projects",
+            "homepage": null,
             "id": 626861341,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T04:50:39Z",
+            "open_issues": 1,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 190
+            "stars": 190,
+            "topics": [
+              "access-control",
+              "auth",
+              "authentication",
+              "authorization",
+              "decentralized-identity",
+              "did",
+              "digital-identity",
+              "iam",
+              "identity",
+              "identity-management",
+              "identity-provider",
+              "idp",
+              "oidc",
+              "oidc4vci",
+              "passwordless",
+              "pki",
+              "self-sovereign-identity",
+              "ssi",
+              "verifiable-credentials",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -398,12 +672,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome open-source crypto projects. Updated weekly.",
+            "homepage": null,
             "id": 445931634,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-07-12T09:36:46Z",
+            "open_issues": 26,
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 549
+            "stars": 549,
+            "topics": [
+              "altcoin",
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "bitcoin",
+              "blockchain",
+              "btc",
+              "coin",
+              "cosmos",
+              "crypto",
+              "cryptocurrency",
+              "defi",
+              "eth",
+              "ethereum",
+              "metaverse",
+              "monero",
+              "nft",
+              "open-source",
+              "smart-contracts",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -420,12 +720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything thumbor, awesomely curated & updated weekly.",
+            "homepage": null,
             "id": 451259065,
             "language": "Makefile",
-            "last_commit": "2026-08-28T13:33:20Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-29T02:45:48Z",
+            "open_issues": 1,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -442,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A weekly updated ranked list of popular open-source libraries and tools for Power System Analysis.",
+            "homepage": null,
             "id": 988356636,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-03-24T04:23:41Z",
+            "open_issues": 0,
             "owner": "jinningwang",
             "repo": "best-of-ps",
-            "stars": 27
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -464,12 +774,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
+            "homepage": "https://best-of.org",
             "id": 322399089,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:07:10Z",
+            "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1891
+            "stars": 1891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "best-of-list",
+              "collection",
+              "lists"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         },
@@ -480,12 +802,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
+            "homepage": "https://best-of.org",
             "id": 322399089,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:07:10Z",
+            "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1891
+            "stars": 1891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "best-of",
+              "best-of-list",
+              "collection",
+              "lists"
+            ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
@@ -494,15 +828,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:21.323Z",
+    "last_updated": "2026-08-29T04:33:59.792Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
+      "homepage": "https://best-of.org",
       "id": 322399089,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-28T07:07:10Z",
+      "open_issues": 22,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1891
+      "stars": 1891,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "best-of",
+        "best-of-list",
+        "collection",
+        "lists"
+      ]
     },
     "original_repository_sha": "d73e2995f8fcd1a466131e2c226bdb6b7609b48e",
     "enhanced_repository": "enhansome/enhansome-best-of",
