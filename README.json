@@ -67,7 +67,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23734,
+            "stars": 23738,
             "topics": [
               "automl",
               "chatgpt",
@@ -108,7 +108,7 @@
             "open_issues": 110,
             "owner": "jrieke",
             "repo": "best-of-streamlit",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "best-of",
               "best-of-list",
@@ -216,7 +216,7 @@
             "open_issues": 15,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "api",
               "awesome",
@@ -244,68 +244,6 @@
         }
       ],
       "title": "best-of-web-python (🥇11 · ⭐ 2.6K · 💤) - A ranked list of awesome python libraries for web.."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fkromer/best-of-django",
-          "description": "(👨‍💻 5 · 🔀 15):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A ranked list of awesome Django related Python packages.",
-            "homepage": "https://florian-kromer.eu",
-            "id": 545667232,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-01T05:32:15Z",
-            "open_issues": 1,
-            "owner": "fkromer",
-            "repo": "best-of-django",
-            "stars": 141,
-            "topics": [
-              "best-of-list",
-              "django",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        }
-      ],
-      "title": "best-of-django (🥉8 · ⭐ 140) - A ranked list of awesome Django related Python packages."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fkromer/best-of-fastapi",
-          "description": "(👨‍💻 4 · 🔀 2):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of automatically rated Python packages for FastAPI.",
-            "homepage": "https://florian-kromer.eu",
-            "id": 571210925,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-28T15:57:38Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "best-of-fastapi",
-            "stars": 48,
-            "topics": [
-              "best-of-list",
-              "fastapi",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        }
-      ],
-      "title": "best-of-fastapi (🥉8 · ⭐ 48) - List of automatically rated Python packages for FastAPI."
     },
     {
       "description": null,
@@ -349,90 +287,9 @@
             ]
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
-        },
-        {
-          "node_type": "item",
-          "title": "best-of-vue",
-          "description": "(🥉5 · ⭐ 6 · 💀) - List of automatically rated Vue projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "List of automatically rated Vue projects.",
-            "homepage": "https://florian-kromer.eu",
-            "id": 573854548,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2025-05-22T19:34:26Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "best-of-vue",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
       "title": "Show 2 hidden projects..."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "best-of-react-native",
-          "description": "(🥇4 · ⭐ 9 · 💀) - List of automatically rated React Native projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "List of automatically rated React Native projects.",
-            "homepage": "https://florian-kromer.eu",
-            "id": 634637882,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2025-05-22T19:33:45Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "best-of-react-native",
-            "stars": 9,
-            "topics": [
-              "best-of-list",
-              "react-native"
-            ]
-          },
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        }
-      ],
-      "title": "Show 1 hidden projects..."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fkromer/best-of-rust-on-embedded-linux",
-          "description": "(👨‍💻 4 · 🔀 2):",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A ranked list of awesome Rust crates and projects suitable for the embedded Linux/Unix domain.",
-            "homepage": null,
-            "id": 970932685,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-28T15:57:23Z",
-            "open_issues": 0,
-            "owner": "fkromer",
-            "repo": "best-of-rust-on-embedded-linux",
-            "stars": 14,
-            "topics": [
-              "embedded-linux",
-              "rust"
-            ]
-          },
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        }
-      ],
-      "title": "best-of-rust-on-embedded-linux (🥇6 · ⭐ 14) - A ranked list of awesome Rust crates and projects.."
     },
     {
       "description": null,
@@ -453,7 +310,7 @@
             "open_issues": 28,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1299,
+            "stars": 1298,
             "topics": [
               "awesome",
               "awesome-list",
@@ -501,7 +358,7 @@
             "open_issues": 62,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1790,
+            "stars": 1791,
             "topics": [
               "best-of",
               "best-of-list",
@@ -589,7 +446,7 @@
             "open_issues": 47,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4585,
+            "stars": 4587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -681,7 +538,7 @@
             "open_issues": 26,
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 549,
+            "stars": 548,
             "topics": [
               "altcoin",
               "awesome",
@@ -725,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-29T02:45:48Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T22:27:45Z",
+            "open_issues": 2,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -783,7 +640,7 @@
             "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1891,
+            "stars": 1893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -811,7 +668,7 @@
             "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1891,
+            "stars": 1893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -828,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:47:03.996Z",
+    "last_updated": "2026-08-30T10:40:23.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -840,7 +697,7 @@
       "open_issues": 22,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1891,
+      "stars": 1893,
       "topics": [
         "awesome",
         "awesome-list",
