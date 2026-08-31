@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1232,
+            "stars": 1233,
             "topics": [
               "awesome",
               "best-of",
@@ -67,7 +67,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23738,
+            "stars": 23747,
             "topics": [
               "automl",
               "chatgpt",
@@ -108,7 +108,7 @@
             "open_issues": 110,
             "owner": "jrieke",
             "repo": "best-of-streamlit",
-            "stars": 1410,
+            "stars": 1411,
             "topics": [
               "best-of",
               "best-of-list",
@@ -168,7 +168,7 @@
             "open_issues": 93,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
-            "stars": 512,
+            "stars": 513,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -213,10 +213,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T07:07:01Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2754,
+            "stars": 2753,
             "topics": [
               "api",
               "awesome",
@@ -264,7 +264,7 @@
             "open_issues": 20,
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1076,
+            "stars": 1075,
             "topics": [
               "ant-design",
               "awesome",
@@ -385,7 +385,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-29T01:43:38Z",
+            "last_commit": "2026-08-30T20:57:06Z",
             "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -443,7 +443,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-27T20:10:45Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
             "stars": 4587,
@@ -582,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-29T22:27:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-30T22:28:04Z",
+            "open_issues": 3,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:40:23.625Z",
+    "last_updated": "2026-08-31T11:50:07.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
