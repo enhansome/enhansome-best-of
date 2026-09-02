@@ -67,7 +67,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23757,
+            "stars": 23770,
             "topics": [
               "automl",
               "chatgpt",
@@ -164,8 +164,8 @@
             "id": 337370263,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-01T10:47:06Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-01T14:04:43Z",
+            "open_issues": 94,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
             "stars": 513,
@@ -216,7 +216,7 @@
             "open_issues": 16,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2753,
+            "stars": 2756,
             "topics": [
               "api",
               "awesome",
@@ -385,7 +385,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T22:46:04Z",
+            "last_commit": "2026-09-01T20:58:04Z",
             "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -446,7 +446,7 @@
             "open_issues": 49,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4586,
+            "stars": 4587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -582,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T23:40:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-01T22:27:01Z",
+            "open_issues": 4,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:26:37.986Z",
+    "last_updated": "2026-09-02T09:53:58.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
