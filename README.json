@@ -67,7 +67,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23782,
+            "stars": 23785,
             "topics": [
               "automl",
               "chatgpt",
@@ -216,7 +216,7 @@
             "open_issues": 17,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2756,
+            "stars": 2757,
             "topics": [
               "api",
               "awesome",
@@ -358,7 +358,7 @@
             "open_issues": 62,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1793,
+            "stars": 1794,
             "topics": [
               "best-of",
               "best-of-list",
@@ -385,7 +385,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-04T20:43:09Z",
+            "last_commit": "2026-09-05T20:16:29Z",
             "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -538,7 +538,7 @@
             "open_issues": 26,
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 548,
+            "stars": 547,
             "topics": [
               "altcoin",
               "awesome",
@@ -582,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-04T22:11:52Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-05T21:58:29Z",
+            "open_issues": 8,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:20:53.578Z",
+    "last_updated": "2026-09-06T09:39:07.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
