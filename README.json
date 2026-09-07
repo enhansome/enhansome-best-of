@@ -67,7 +67,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23785,
+            "stars": 23789,
             "topics": [
               "automl",
               "chatgpt",
@@ -139,7 +139,7 @@
             "open_issues": 5,
             "owner": "taranjeet",
             "repo": "awesome-gpts",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -307,7 +307,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-03T18:45:22Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
             "stars": 1299,
@@ -358,7 +358,7 @@
             "open_issues": 62,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1794,
+            "stars": 1797,
             "topics": [
               "best-of",
               "best-of-list",
@@ -385,7 +385,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-05T20:16:29Z",
+            "last_commit": "2026-09-06T20:20:05Z",
             "open_issues": 1,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -443,10 +443,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-03T15:12:58Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4592,
+            "stars": 4593,
             "topics": [
               "awesome",
               "awesome-list",
@@ -582,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-05T21:58:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-06T22:00:56Z",
+            "open_issues": 3,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:39:07.342Z",
+    "last_updated": "2026-09-07T10:43:13.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
