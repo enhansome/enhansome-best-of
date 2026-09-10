@@ -108,7 +108,7 @@
             "open_issues": 110,
             "owner": "jrieke",
             "repo": "best-of-streamlit",
-            "stars": 1413,
+            "stars": 1414,
             "topics": [
               "best-of",
               "best-of-list",
@@ -168,7 +168,7 @@
             "open_issues": 94,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -216,7 +216,7 @@
             "open_issues": 17,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2757,
+            "stars": 2758,
             "topics": [
               "api",
               "awesome",
@@ -385,7 +385,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-08T21:04:43Z",
+            "last_commit": "2026-09-09T20:52:27Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -446,7 +446,7 @@
             "open_issues": 51,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4595,
+            "stars": 4596,
             "topics": [
               "awesome",
               "awesome-list",
@@ -538,7 +538,7 @@
             "open_issues": 26,
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "altcoin",
               "awesome",
@@ -582,8 +582,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-08T22:25:40Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-09T22:19:32Z",
+            "open_issues": 6,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:06:40.351Z",
+    "last_updated": "2026-09-10T10:02:00.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
