@@ -15,8 +15,8 @@
             "id": 326066116,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T18:37:51Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-10T18:08:47Z",
+            "open_issues": 22,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
             "stars": 1236,
@@ -63,11 +63,11 @@
             "id": 317029148,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T14:15:42Z",
+            "last_commit": "2026-09-10T14:13:24Z",
             "open_issues": 57,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23796,
+            "stars": 23799,
             "topics": [
               "automl",
               "chatgpt",
@@ -168,7 +168,7 @@
             "open_issues": 94,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -212,8 +212,8 @@
             "id": 327002257,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T22:07:24Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-10T21:10:42Z",
+            "open_issues": 18,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
             "stars": 2758,
@@ -296,6 +296,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "knmcguire/best-of-robot-simulators",
+          "description": "(👨‍💻 17 · 🔀 110):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Best-of-list of Robot Simulators, re-generated weekly on Wednesdays",
+            "homepage": null,
+            "id": 963138341,
+            "language": null,
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-09-09T15:48:01Z",
+            "open_issues": 20,
+            "owner": "knmcguire",
+            "repo": "best-of-robot-simulators",
+            "stars": 1465,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T09:59:54.864Z"
+        }
+      ],
+      "title": "best-of-robot-simulators (🥇10 · ⭐ 1.5K · 📈) - A Best-of-list of Robot Simulators, re-generated.."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "ml-tooling/best-of-python-dev",
           "description": "(👨‍💻 9 · 🔀 53):",
           "children": [],
@@ -306,7 +333,7 @@
             "id": 327929724,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T18:45:22Z",
+            "last_commit": "2026-09-10T19:13:58Z",
             "open_issues": 31,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
@@ -354,11 +381,11 @@
             "id": 482460432,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T20:39:41Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-10T20:34:28Z",
+            "open_issues": 65,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1799,
+            "stars": 1801,
             "topics": [
               "best-of",
               "best-of-list",
@@ -385,7 +412,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T20:52:27Z",
+            "last_commit": "2026-09-10T20:47:14Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -412,8 +439,8 @@
             "id": 613584811,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T22:37:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-10T20:47:10Z",
+            "open_issues": 6,
             "owner": "stkeky",
             "repo": "best-of-scala",
             "stars": 294,
@@ -442,11 +469,11 @@
             "id": 328766021,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T15:12:58Z",
+            "last_commit": "2026-09-10T16:13:09Z",
             "open_issues": 51,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4596,
+            "stars": 4598,
             "topics": [
               "awesome",
               "awesome-list",
@@ -486,8 +513,8 @@
             "id": 626861341,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-04T04:42:03Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-10T20:29:00Z",
+            "open_issues": 1,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
             "stars": 190,
@@ -582,8 +609,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T22:19:32Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-10T22:19:49Z",
+            "open_issues": 7,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -613,13 +640,13 @@
             "open_issues": 0,
             "owner": "jinningwang",
             "repo": "best-of-ps",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
         }
       ],
-      "title": "best-of-ps (🥉6 · ⭐ 24) - A weekly updated ranked list of popular open-source libraries and tools for.."
+      "title": "best-of-ps (🥉6 · ⭐ 28) - A weekly updated ranked list of popular open-source libraries and tools for.."
     },
     {
       "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
@@ -636,7 +663,7 @@
             "id": 322399089,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T20:55:05Z",
+            "last_commit": "2026-09-10T21:10:54Z",
             "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
@@ -664,7 +691,7 @@
             "id": 322399089,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-03T20:55:05Z",
+            "last_commit": "2026-09-10T21:10:54Z",
             "open_issues": 22,
             "owner": "best-of-lists",
             "repo": "best-of",
@@ -685,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T10:02:00.390Z",
+    "last_updated": "2026-09-11T09:59:54.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -693,7 +720,7 @@
       "id": 322399089,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-09-03T20:55:05Z",
+      "last_commit": "2026-09-10T21:10:54Z",
       "open_issues": 22,
       "owner": "best-of-lists",
       "repo": "best-of",
@@ -707,7 +734,7 @@
         "lists"
       ]
     },
-    "original_repository_sha": "d73e2995f8fcd1a466131e2c226bdb6b7609b48e",
+    "original_repository_sha": "ad7f13d20e2e3dee4f6ef9ef11a9776903ce705b",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,
     "title": "Awesome best of with stars"
