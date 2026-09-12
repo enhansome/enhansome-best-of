@@ -67,7 +67,7 @@
             "open_issues": 57,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23799,
+            "stars": 23797,
             "topics": [
               "automl",
               "chatgpt",
@@ -412,7 +412,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-10T20:47:14Z",
+            "last_commit": "2026-09-11T20:53:24Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -439,11 +439,11 @@
             "id": 613584811,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-10T20:47:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-11T20:05:53Z",
+            "open_issues": 5,
             "owner": "stkeky",
             "repo": "best-of-scala",
-            "stars": 294,
+            "stars": 293,
             "topics": [
               "scala",
               "scalajs"
@@ -473,7 +473,7 @@
             "open_issues": 51,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4598,
+            "stars": 4599,
             "topics": [
               "awesome",
               "awesome-list",
@@ -609,8 +609,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-10T22:19:49Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-11T22:19:11Z",
+            "open_issues": 8,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:59:54.864Z",
+    "last_updated": "2026-09-12T09:34:15.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
