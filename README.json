@@ -67,7 +67,7 @@
             "open_issues": 57,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23810,
+            "stars": 23809,
             "topics": [
               "automl",
               "chatgpt",
@@ -306,11 +306,11 @@
             "id": 963138341,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T14:35:47Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-20T05:11:07Z",
+            "open_issues": 19,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1467,
+            "stars": 1468,
             "topics": []
           },
           "first_seen": "2026-09-11T09:59:54.864Z"
@@ -412,7 +412,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T20:49:42Z",
+            "last_commit": "2026-09-19T20:30:30Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -609,8 +609,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T22:22:32Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-19T22:11:33Z",
+            "open_issues": 9,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:42:43.722Z",
+    "last_updated": "2026-09-20T10:05:46.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
