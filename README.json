@@ -67,7 +67,7 @@
             "open_issues": 57,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23809,
+            "stars": 23812,
             "topics": [
               "automl",
               "chatgpt",
@@ -139,7 +139,7 @@
             "open_issues": 5,
             "owner": "taranjeet",
             "repo": "awesome-gpts",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -216,7 +216,7 @@
             "open_issues": 19,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2759,
+            "stars": 2760,
             "topics": [
               "api",
               "awesome",
@@ -307,10 +307,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-20T05:11:07Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1468,
+            "stars": 1469,
             "topics": []
           },
           "first_seen": "2026-09-11T09:59:54.864Z"
@@ -337,7 +337,7 @@
             "open_issues": 33,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1302,
+            "stars": 1303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -385,7 +385,7 @@
             "open_issues": 67,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1803,
+            "stars": 1805,
             "topics": [
               "best-of",
               "best-of-list",
@@ -412,7 +412,7 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-19T20:30:30Z",
+            "last_commit": "2026-09-20T20:42:27Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
@@ -443,7 +443,7 @@
             "open_issues": 3,
             "owner": "stkeky",
             "repo": "best-of-scala",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "scala",
               "scalajs"
@@ -473,7 +473,7 @@
             "open_issues": 50,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4604,
+            "stars": 4602,
             "topics": [
               "awesome",
               "awesome-list",
@@ -609,8 +609,8 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-19T22:11:33Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-20T22:15:18Z",
+            "open_issues": 10,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
             "stars": 82,
@@ -667,7 +667,7 @@
             "open_issues": 24,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "awesome",
               "awesome-list",
@@ -695,7 +695,7 @@
             "open_issues": 24,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "awesome",
               "awesome-list",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:05:46.507Z",
+    "last_updated": "2026-09-21T11:05:20.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -724,7 +724,7 @@
       "open_issues": 24,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1898,
+      "stars": 1899,
       "topics": [
         "awesome",
         "awesome-list",
