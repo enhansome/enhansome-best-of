@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "awesome",
               "best-of",
@@ -139,7 +139,7 @@
             "open_issues": 5,
             "owner": "taranjeet",
             "repo": "awesome-gpts",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "awesome",
               "awesome-list",
@@ -168,7 +168,7 @@
             "open_issues": 93,
             "owner": "e-tornike",
             "repo": "best-of-ml-rust",
-            "stars": 518,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -264,7 +264,7 @@
             "open_issues": 21,
             "owner": "lukasmasuch",
             "repo": "best-of-react",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "ant-design",
               "awesome",
@@ -310,7 +310,7 @@
             "open_issues": 20,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1469,
+            "stars": 1470,
             "topics": []
           },
           "first_seen": "2026-09-11T09:59:54.864Z"
@@ -337,7 +337,7 @@
             "open_issues": 33,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1304,
+            "stars": 1307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -412,11 +412,11 @@
             "id": 484127372,
             "language": "Shell",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T21:57:19Z",
+            "last_commit": "2026-09-22T21:12:56Z",
             "open_issues": 2,
             "owner": "lyz-code",
             "repo": "best-of-digital-gardens",
-            "stars": 594,
+            "stars": 593,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -473,7 +473,7 @@
             "open_issues": 50,
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4603,
+            "stars": 4604,
             "topics": [
               "awesome",
               "awesome-list",
@@ -609,11 +609,11 @@
             "id": 451259065,
             "language": "Makefile",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T23:04:11Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-22T22:47:24Z",
+            "open_issues": 12,
             "owner": "thumbor",
             "repo": "awesome-thumbor",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:21.323Z"
@@ -664,10 +664,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-17T21:15:00Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1899,
+            "stars": 1900,
             "topics": [
               "awesome",
               "awesome-list",
@@ -692,10 +692,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-17T21:15:00Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "best-of-lists",
             "repo": "best-of",
-            "stars": 1899,
+            "stars": 1900,
             "topics": [
               "awesome",
               "awesome-list",
@@ -712,7 +712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:19:27.198Z",
+    "last_updated": "2026-09-23T10:17:08.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -721,10 +721,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-09-17T21:15:00Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1899,
+      "stars": 1900,
       "topics": [
         "awesome",
         "awesome-list",
