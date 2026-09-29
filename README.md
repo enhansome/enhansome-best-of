@@ -73,8 +73,8 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 </details>
 <details><summary>Show 5 hidden projects...</summary>
 
-* <b>[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,825 | 🐛 58 | 📅 2026-09-24</b> (🥇14 ·  ⭐ 16K · 💀) - A ranked list of awesome machine learning Python.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-* <b>[best-of-streamlit](https://github.com/jrieke/best-of-streamlit) ⭐ 1,412 | 🐛 110 | 📅 2024-06-28</b> (🥈10 ·  ⭐ 1.1K · 💀) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,828 | 🐛 58 | 📅 2026-09-24</b> (🥇14 ·  ⭐ 16K · 💀) - A ranked list of awesome machine learning Python.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-streamlit](https://github.com/jrieke/best-of-streamlit) ⭐ 1,413 | 🐛 110 | 📅 2024-06-28</b> (🥈10 ·  ⭐ 1.1K · 💀) - A ranked gallery of awesome streamlit apps built by the.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 * <b>[awesome-gpts](https://github.com/taranjeet/awesome-gpts) ⭐ 1,370 | 🐛 5 | 📅 2024-04-21</b> (🥈11 ·  ⭐ 1.4K · 💀) - Collection of all the GPTs created by the community. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 * <b>[best-of-ml-rust](https://github.com/e-tornike/best-of-ml-rust) ⭐ 518 | 🐛 93 | 📅 2026-09-14</b> (🥉7 ·  ⭐ 120 · 💀) - A ranked list of awesome machine learning Rust libraries.
 * <b>[best-of-ml-julia](https://github.com/e-tornike/best-of-ml-julia) ⭐ 25 | 🐛 10 | 📅 2021-11-15</b> (🥉5 ·  ⭐ 6 · 💀) - A ranked list of awesome machine learning Julia libraries.
@@ -144,7 +144,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary><b><a href="https://github.com/knmcguire/best-of-robot-simulators">best-of-robot-simulators</a></b> (🥇10 ·  ⭐ 1.5K) - A Best-of-list of Robot Simulators, re-generated weekly..</summary>
 
-* [GitHub](https://github.com/knmcguire/best-of-robot-simulators) ⭐ 1,474 | 🐛 19 | 📅 2026-09-25 (👨‍💻 18 · 🔀 120):
+* [GitHub](https://github.com/knmcguire/best-of-robot-simulators) ⭐ 1,475 | 🐛 19 | 📅 2026-09-25 (👨‍💻 18 · 🔀 120):
 
   ```
   git clone https://github.com/knmcguire/best-of-robot-simulators
@@ -204,7 +204,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 595 | 🐛 2 | 🌐 Shell | 📅 2026-09-27</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
+* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 595 | 🐛 2 | 🌐 Shell | 📅 2026-09-28</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
 
 </details>
 <br>
@@ -217,7 +217,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary><b><a href="https://github.com/stkeky/best-of-scala">best-of-scala</a></b> (🥉10 ·  ⭐ 290) - A ranked list of awesome Scala projects. Updated weekly.</summary>
 
-* [GitHub](https://github.com/stkeky/best-of-scala) ⭐ 294 | 🐛 3 | 📅 2026-09-25 (👨‍💻 18 · 🔀 25):
+* [GitHub](https://github.com/stkeky/best-of-scala) ⭐ 296 | 🐛 3 | 📅 2026-09-25 (👨‍💻 18 · 🔀 25):
 
   ```
   git clone https://github.com/stkeky/best-of-scala
@@ -226,7 +226,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-python](https://github.com/ml-tooling/best-of-python) ⭐ 4,607 | 🐛 50 | 📅 2026-09-25</b> (🥇11 ·  ⭐ 3.6K · 💀) - A ranked list of awesome Python open-source libraries and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-python](https://github.com/ml-tooling/best-of-python) ⭐ 4,610 | 🐛 50 | 📅 2026-09-25</b> (🥇11 ·  ⭐ 3.6K · 💀) - A ranked list of awesome Python open-source libraries and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 
 </details>
 <br>
@@ -267,7 +267,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary><b><a href="https://github.com/thumbor/awesome-thumbor">thumbor/awesome-thumbor</a></b> (🥇7 ·  ⭐ 73 · 💤) - Everything thumbor, awesomely curated & updated weekly.</summary>
 
-* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 83 | 🐛 2 | 🌐 Makefile | 📅 2026-09-28 (👨‍💻 5 · 🔀 4):
+* [GitHub](https://github.com/thumbor/awesome-thumbor) ⭐ 83 | 🐛 3 | 🌐 Makefile | 📅 2026-09-29 (👨‍💻 5 · 🔀 4):
 
   ```
   git clone https://github.com/thumbor/awesome-thumbor
@@ -288,7 +288,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 511,753 | 🐛 106 | 📅 2026-09-02: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 512,217 | 🐛 106 | 📅 2026-09-02: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -307,4 +307,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
