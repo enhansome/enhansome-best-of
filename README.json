@@ -63,7 +63,7 @@
                 "open_issues": 58,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23840,
+                "stars": 23841,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:12.837Z",
+    "last_updated": "2026-10-03T10:36:10.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
