@@ -164,7 +164,7 @@
                 "open_issues": 94,
                 "owner": "e-tornike",
                 "repo": "best-of-ml-rust",
-                "stars": 519,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:21.323Z"
@@ -213,10 +213,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-01T21:11:10Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2761,
+            "stars": 2760,
             "topics": [
               "api",
               "awesome",
@@ -311,7 +311,7 @@
             "open_issues": 19,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1479,
+            "stars": 1480,
             "topics": []
           },
           "title": "best-of-robot-simulators",
@@ -386,7 +386,7 @@
             "open_issues": 70,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1806,
+            "stars": 1807,
             "topics": [
               "best-of",
               "best-of-list",
@@ -410,11 +410,11 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-02T22:07:10Z",
+                "last_commit": "2026-10-03T20:58:49Z",
                 "open_issues": 2,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:21.323Z"
@@ -469,10 +469,10 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-01T16:47:37Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4615,
+                "stars": 4616,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-03T02:57:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-03T22:45:46Z",
+                "open_issues": 6,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 82,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:36:10.825Z",
+    "last_updated": "2026-10-04T11:16:26.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
