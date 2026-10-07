@@ -18,7 +18,7 @@
             "open_issues": 22,
             "owner": "ml-tooling",
             "repo": "best-of-jupyter",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "awesome",
               "best-of",
@@ -60,10 +60,10 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-01T14:16:49Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23842,
+                "stars": 23840,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -213,10 +213,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-01T21:11:10Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2759,
+            "stars": 2760,
             "topics": [
               "api",
               "awesome",
@@ -311,7 +311,7 @@
             "open_issues": 19,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1480,
+            "stars": 1483,
             "topics": []
           },
           "title": "best-of-robot-simulators",
@@ -338,7 +338,7 @@
             "open_issues": 33,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1310,
+            "stars": 1314,
             "topics": [
               "awesome",
               "awesome-list",
@@ -383,7 +383,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-01T22:29:31Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "mkdocs",
             "repo": "catalog",
             "stars": 1807,
@@ -472,7 +472,7 @@
                 "open_issues": 53,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4618,
+                "stars": 4621,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -520,7 +520,7 @@
             "open_issues": 4,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "access-control",
               "auth",
@@ -571,7 +571,7 @@
                 "open_issues": 26,
                 "owner": "lukasmasuch",
                 "repo": "best-of-crypto",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "altcoin",
                   "awesome",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-06T01:11:20Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-06T23:38:03Z",
+                "open_issues": 4,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:13:04.465Z",
+    "last_updated": "2026-10-07T11:59:23.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
