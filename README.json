@@ -338,7 +338,7 @@
             "open_issues": 33,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1315,
+            "stars": 1316,
             "topics": [
               "awesome",
               "awesome-list",
@@ -410,7 +410,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-09T22:34:40Z",
+                "last_commit": "2026-10-10T21:33:15Z",
                 "open_issues": 3,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -520,7 +520,7 @@
             "open_issues": 4,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "access-control",
               "auth",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-09T23:52:06Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-11T09:00:53Z",
+                "open_issues": 4,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:21:53.293Z",
+    "last_updated": "2026-10-11T11:35:42.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
