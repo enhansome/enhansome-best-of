@@ -311,7 +311,7 @@
             "open_issues": 21,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1487,
+            "stars": 1488,
             "topics": []
           },
           "title": "best-of-robot-simulators",
@@ -386,7 +386,7 @@
             "open_issues": 74,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1810,
+            "stars": 1809,
             "topics": [
               "best-of",
               "best-of-list",
@@ -410,7 +410,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-15T21:16:07Z",
+                "last_commit": "2026-10-16T20:55:21Z",
                 "open_issues": 4,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -472,7 +472,7 @@
                 "open_issues": 55,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4627,
+                "stars": 4628,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-15T22:56:58Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-16T22:36:59Z",
+                "open_issues": 8,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:05:56.695Z",
+    "last_updated": "2026-10-17T09:39:54.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
