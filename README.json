@@ -63,7 +63,7 @@
                 "open_issues": 60,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23848,
+                "stars": 23849,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -261,7 +261,7 @@
                 "open_issues": 21,
                 "owner": "lukasmasuch",
                 "repo": "best-of-react",
-                "stars": 1078,
+                "stars": 1077,
                 "topics": [
                   "ant-design",
                   "awesome",
@@ -410,7 +410,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-16T20:55:21Z",
+                "last_commit": "2026-10-17T20:28:42Z",
                 "open_issues": 4,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -472,7 +472,7 @@
                 "open_issues": 55,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4628,
+                "stars": 4631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -571,7 +571,7 @@
                 "open_issues": 25,
                 "owner": "lukasmasuch",
                 "repo": "best-of-crypto",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "altcoin",
                   "awesome",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-16T22:36:59Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-17T22:01:06Z",
+                "open_issues": 9,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:39:54.204Z",
+    "last_updated": "2026-10-18T09:52:54.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
