@@ -63,7 +63,7 @@
                 "open_issues": 58,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23849,
+                "stars": 23853,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -132,10 +132,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-04-21T19:47:16Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "taranjeet",
                 "repo": "awesome-gpts",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -160,8 +160,8 @@
                 "id": 337370263,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-01T16:10:45Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-01T15:55:21Z",
+                "open_issues": 98,
                 "owner": "e-tornike",
                 "repo": "best-of-ml-rust",
                 "stars": 522,
@@ -216,7 +216,7 @@
             "open_issues": 24,
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2774,
+            "stars": 2775,
             "topics": [
               "api",
               "awesome",
@@ -311,7 +311,7 @@
             "open_issues": 21,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
-            "stars": 1500,
+            "stars": 1501,
             "topics": []
           },
           "title": "best-of-robot-simulators",
@@ -386,7 +386,7 @@
             "open_issues": 80,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "best-of",
               "best-of-list",
@@ -410,7 +410,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-31T21:22:28Z",
+                "last_commit": "2026-11-01T21:57:57Z",
                 "open_issues": 5,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -445,7 +445,7 @@
             "open_issues": 3,
             "owner": "stkeky",
             "repo": "best-of-scala",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "scala",
               "scalajs"
@@ -472,7 +472,7 @@
                 "open_issues": 58,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4644,
+                "stars": 4649,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -520,7 +520,7 @@
             "open_issues": 4,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 195,
+            "stars": 203,
             "topics": [
               "access-control",
               "auth",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-31T23:09:05Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-01T23:28:24Z",
+                "open_issues": 10,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:01:23.250Z",
+    "last_updated": "2026-11-02T13:49:48.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -674,7 +674,7 @@
       "open_issues": 26,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1912,
+      "stars": 1918,
       "topics": [
         "awesome",
         "awesome-list",
