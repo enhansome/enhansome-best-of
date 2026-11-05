@@ -63,7 +63,7 @@
                 "open_issues": 58,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23854,
+                "stars": 23857,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -307,7 +307,7 @@
             "id": 963138341,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T06:45:57Z",
+            "last_commit": "2026-11-05T08:57:26Z",
             "open_issues": 21,
             "owner": "knmcguire",
             "repo": "best-of-robot-simulators",
@@ -338,7 +338,7 @@
             "open_issues": 35,
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "awesome",
               "awesome-list",
@@ -410,11 +410,11 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-03T00:53:09Z",
+                "last_commit": "2026-11-04T23:32:32Z",
                 "open_issues": 5,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:21.323Z"
@@ -468,11 +468,11 @@
                 "id": 328766021,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-29T14:02:48Z",
+                "last_commit": "2026-11-05T13:09:01Z",
                 "open_issues": 60,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4650,
+                "stars": 4651,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -643,8 +643,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-04T00:26:16Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-05T00:52:00Z",
+                "open_issues": 13,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:15:56.304Z",
+    "last_updated": "2026-11-05T13:28:53.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
