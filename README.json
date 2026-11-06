@@ -4,48 +4,6 @@
       "description": "Best-of lists about machine learning, data engieering, data science, or other topics related to big data.",
       "items": [
         {
-          "children": [],
-          "description": "A ranked list of awesome Jupyter Notebook, Hub and Lab..",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
-            "homepage": null,
-            "id": 326066116,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T20:05:24Z",
-            "open_issues": 23,
-            "owner": "ml-tooling",
-            "repo": "best-of-jupyter",
-            "stars": 1249,
-            "topics": [
-              "awesome",
-              "best-of",
-              "best-of-list",
-              "collections",
-              "deep-learning",
-              "jupyter",
-              "jupyter-extension",
-              "jupyter-kernels",
-              "jupyter-notebook",
-              "jupyter-notebook-extension",
-              "jupyter-widget",
-              "jupyterhub",
-              "jupyterhub-authenticator",
-              "jupyterhub-spawner",
-              "jupyterlab",
-              "jupyterlab-extension",
-              "jupyterlab-extensions",
-              "machine-learning",
-              "notebook",
-              "python"
-            ]
-          },
-          "title": "best-of-jupyter",
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        },
-        {
           "children": [
             {
               "node_type": "item",
@@ -59,11 +17,11 @@
                 "id": 317029148,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-29T14:11:25Z",
+                "last_commit": "2026-11-05T14:09:31Z",
                 "open_issues": 58,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23857,
+                "stars": 23858,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -150,6 +108,48 @@
             },
             {
               "node_type": "item",
+              "title": "best-of-jupyter",
+              "description": "A ranked list of awesome Jupyter Notebook, Hub and Lab..",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.",
+                "homepage": null,
+                "id": 326066116,
+                "language": null,
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-11-06T08:58:29Z",
+                "open_issues": 23,
+                "owner": "ml-tooling",
+                "repo": "best-of-jupyter",
+                "stars": 1249,
+                "topics": [
+                  "awesome",
+                  "best-of",
+                  "best-of-list",
+                  "collections",
+                  "deep-learning",
+                  "jupyter",
+                  "jupyter-extension",
+                  "jupyter-kernels",
+                  "jupyter-notebook",
+                  "jupyter-notebook-extension",
+                  "jupyter-widget",
+                  "jupyterhub",
+                  "jupyterhub-authenticator",
+                  "jupyterhub-spawner",
+                  "jupyterlab",
+                  "jupyterlab-extension",
+                  "jupyterlab-extensions",
+                  "machine-learning",
+                  "notebook",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T17:42:21.323Z"
+            },
+            {
+              "node_type": "item",
               "title": "best-of-ml-rust",
               "description": "A ranked list of awesome machine learning Rust libraries.",
               "children": [],
@@ -193,7 +193,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 5 hidden projects..."
+          "title": "Show 6 hidden projects..."
         }
       ],
       "title": "Machine Learning & Data Engineering"
@@ -202,49 +202,49 @@
       "description": "Best-of lists about react, vue, angular, html5, css, or other topics related to web development.",
       "items": [
         {
-          "children": [],
-          "description": "A ranked list of awesome python libraries for web..",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "🏆  A ranked list of awesome python libraries for web development. Updated weekly.",
-            "homepage": "https://web-python.best-of.org",
-            "id": 327002257,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T21:40:20Z",
-            "open_issues": 25,
-            "owner": "ml-tooling",
-            "repo": "best-of-web-python",
-            "stars": 2777,
-            "topics": [
-              "api",
-              "awesome",
-              "best-of",
-              "best-of-list",
-              "django",
-              "django-rest-framework",
-              "fastapi",
-              "flask",
-              "flask-restful",
-              "framework",
-              "graphql",
-              "html",
-              "http",
-              "library",
-              "openapi",
-              "pyramid",
-              "python",
-              "rest-api",
-              "serverless",
-              "web-development"
-            ]
-          },
-          "title": "best-of-web-python",
-          "first_seen": "2026-08-28T17:42:21.323Z"
-        },
-        {
           "children": [
+            {
+              "node_type": "item",
+              "title": "best-of-web-python",
+              "description": "A ranked list of awesome python libraries for web..",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏆  A ranked list of awesome python libraries for web development. Updated weekly.",
+                "homepage": "https://web-python.best-of.org",
+                "id": 327002257,
+                "language": null,
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-11-06T08:58:06Z",
+                "open_issues": 25,
+                "owner": "ml-tooling",
+                "repo": "best-of-web-python",
+                "stars": 2777,
+                "topics": [
+                  "api",
+                  "awesome",
+                  "best-of",
+                  "best-of-list",
+                  "django",
+                  "django-rest-framework",
+                  "fastapi",
+                  "flask",
+                  "flask-restful",
+                  "framework",
+                  "graphql",
+                  "html",
+                  "http",
+                  "library",
+                  "openapi",
+                  "pyramid",
+                  "python",
+                  "rest-api",
+                  "serverless",
+                  "web-development"
+                ]
+              },
+              "first_seen": "2026-08-28T17:42:21.323Z"
+            },
             {
               "node_type": "item",
               "title": "best-of-react",
@@ -288,7 +288,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Show 2 hidden projects..."
+          "title": "Show 3 hidden projects..."
         }
       ],
       "title": "Web Development"
@@ -324,46 +324,53 @@
       "description": "Best-of lists about tools & libraries to help with software development.",
       "items": [
         {
-          "children": [],
-          "description": "A ranked list of awesome python developer tools and..",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
-            "homepage": "https://python-dev.best-of.org",
-            "id": 327929724,
-            "language": "Python",
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T20:05:13Z",
-            "open_issues": 35,
-            "owner": "ml-tooling",
-            "repo": "best-of-python-dev",
-            "stars": 1323,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "best-of",
-              "best-of-list",
-              "conda",
-              "debugging",
-              "developer-tools",
-              "flake8",
-              "formatter",
-              "linter",
-              "linters",
-              "mkdocs",
-              "pip",
-              "pylint",
-              "pytest",
-              "python",
-              "python-devtools",
-              "refactoring",
-              "sphinx",
-              "style-checkers"
-            ]
-          },
-          "title": "best-of-python-dev",
-          "first_seen": "2026-08-28T17:42:21.323Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "best-of-python-dev",
+              "description": "A ranked list of awesome python developer tools and..",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.",
+                "homepage": "https://python-dev.best-of.org",
+                "id": 327929724,
+                "language": "Python",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-11-06T08:58:17Z",
+                "open_issues": 35,
+                "owner": "ml-tooling",
+                "repo": "best-of-python-dev",
+                "stars": 1323,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "best-of",
+                  "best-of-list",
+                  "conda",
+                  "debugging",
+                  "developer-tools",
+                  "flake8",
+                  "formatter",
+                  "linter",
+                  "linters",
+                  "mkdocs",
+                  "pip",
+                  "pylint",
+                  "pytest",
+                  "python",
+                  "python-devtools",
+                  "refactoring",
+                  "sphinx",
+                  "style-checkers"
+                ]
+              },
+              "first_seen": "2026-08-28T17:42:21.323Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Show 1 hidden projects..."
         }
       ],
       "title": "Development Tools"
@@ -382,7 +389,7 @@
             "id": 482460432,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T22:34:41Z",
+            "last_commit": "2026-11-05T23:16:42Z",
             "open_issues": 80,
             "owner": "mkdocs",
             "repo": "catalog",
@@ -410,7 +417,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-04T23:32:32Z",
+                "last_commit": "2026-11-05T23:32:33Z",
                 "open_issues": 5,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -441,7 +448,7 @@
             "id": 613584811,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-29T22:45:24Z",
+            "last_commit": "2026-11-05T23:36:18Z",
             "open_issues": 3,
             "owner": "stkeky",
             "repo": "best-of-scala",
@@ -468,11 +475,11 @@
                 "id": 328766021,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-05T13:09:01Z",
+                "last_commit": "2026-11-05T13:45:21Z",
                 "open_issues": 60,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4651,
+                "stars": 4652,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -516,11 +523,11 @@
             "id": 626861341,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-30T08:20:45Z",
+            "last_commit": "2026-11-06T13:10:42Z",
             "open_issues": 4,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "access-control",
               "auth",
@@ -571,7 +578,7 @@
                 "open_issues": 25,
                 "owner": "lukasmasuch",
                 "repo": "best-of-crypto",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "altcoin",
                   "awesome",
@@ -643,8 +650,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-05T00:52:00Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-06T00:49:41Z",
+                "open_issues": 14,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -662,7 +669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:28:53.754Z",
+    "last_updated": "2026-11-06T13:13:24.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
@@ -670,11 +677,11 @@
       "id": 322399089,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-10-30T01:08:21Z",
+      "last_commit": "2026-11-06T08:57:56Z",
       "open_issues": 26,
       "owner": "best-of-lists",
       "repo": "best-of",
-      "stars": 1918,
+      "stars": 1919,
       "topics": [
         "awesome",
         "awesome-list",
@@ -684,7 +691,7 @@
         "lists"
       ]
     },
-    "original_repository_sha": "2afaaebf7002a84c027b1b6c6257f6ddf8860ed6",
+    "original_repository_sha": "6931a3b886322b0e234a453c9c08df9b55003633",
     "enhanced_repository": "enhansome/enhansome-best-of",
     "enhanced_repository_description": null,
     "title": "Awesome best of with stars"
