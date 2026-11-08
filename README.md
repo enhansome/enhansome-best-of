@@ -162,7 +162,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,322 | 🐛 35 | 🌐 Python | 📅 2026-11-06</b> (🥇10 ·  ⭐ 1.2K · 💀) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+* <b>[best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,321 | 🐛 35 | 🌐 Python | 📅 2026-11-06</b> (🥇10 ·  ⭐ 1.2K · 💀) - A ranked list of awesome python developer tools and.. <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 
 </details>
 <br>
@@ -175,7 +175,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary><b><a href="https://github.com/mkdocs/catalog">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 1.7K · 💤) - A list of awesome MkDocs projects and plugins.</summary>
 
-* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,815 | 🐛 80 | 🌐 Python | 📅 2026-11-05 (👨‍💻 63 · 🔀 120):
+* [GitHub](https://github.com/mkdocs/catalog) ⭐ 1,816 | 🐛 80 | 🌐 Python | 📅 2026-11-05 (👨‍💻 63 · 🔀 120):
 
   ```
   git clone https://github.com/mkdocs/catalog
@@ -184,7 +184,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 611 | 🐛 5 | 🌐 Shell | 📅 2026-11-06</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
+* <b>[best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) ⭐ 612 | 🐛 5 | 🌐 Shell | 📅 2026-11-07</b> (🥉8 ·  ⭐ 26 · 💀) - Ranked list of awesome digital gardens / second brains.
 
 </details>
 <br>
@@ -236,7 +236,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[best-of-crypto](https://github.com/lukasmasuch/best-of-crypto) ⭐ 548 | 🐛 25 | 📅 2024-07-12</b> (🥇9 ·  ⭐ 260 · 💀) - A ranked list of awesome open-source crypto projects. Updated weekly.
+* <b>[best-of-crypto](https://github.com/lukasmasuch/best-of-crypto) ⭐ 549 | 🐛 25 | 📅 2024-07-12</b> (🥇9 ·  ⭐ 260 · 💀) - A ranked list of awesome open-source crypto projects. Updated weekly.
 
 </details>
 <br>
@@ -256,7 +256,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) ⭐ 81 | 🐛 15 | 🌐 Makefile | 📅 2026-11-07</b> (🥇7 ·  ⭐ 73 · 💀) - Everything thumbor, awesomely curated & updated weekly.
+* <b>[thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) ⭐ 81 | 🐛 5 | 🌐 Makefile | 📅 2026-11-07</b> (🥇7 ·  ⭐ 73 · 💀) - Everything thumbor, awesomely curated & updated weekly.
 
 </details>
 
@@ -264,7 +264,7 @@ This curated list contains 23 best-of lists with a total of 33K stars grouped in
 
 ## Related Resources
 
-* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 532,824 | 🐛 103 | 📅 2026-09-02: Awesome lists about all kinds of interesting topics
+* [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 533,538 | 🐛 103 | 📅 2026-09-02: Awesome lists about all kinds of interesting topics
 
 ## Contribution
 
@@ -283,4 +283,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

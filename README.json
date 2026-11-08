@@ -341,7 +341,7 @@
                 "open_issues": 35,
                 "owner": "ml-tooling",
                 "repo": "best-of-python-dev",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -393,7 +393,7 @@
             "open_issues": 80,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "best-of",
               "best-of-list",
@@ -417,11 +417,11 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-06T22:59:51Z",
+                "last_commit": "2026-11-07T21:43:36Z",
                 "open_issues": 5,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
-                "stars": 611,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:21.323Z"
@@ -578,7 +578,7 @@
                 "open_issues": 25,
                 "owner": "lukasmasuch",
                 "repo": "best-of-crypto",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "altcoin",
                   "awesome",
@@ -650,8 +650,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-07T00:00:03Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-07T23:29:30Z",
+                "open_issues": 5,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -669,7 +669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:55:08.809Z",
+    "last_updated": "2026-11-08T12:11:23.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
