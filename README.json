@@ -219,7 +219,7 @@
                 "open_issues": 25,
                 "owner": "ml-tooling",
                 "repo": "best-of-web-python",
-                "stars": 2777,
+                "stars": 2779,
                 "topics": [
                   "api",
                   "awesome",
@@ -261,7 +261,7 @@
                 "open_issues": 23,
                 "owner": "lukasmasuch",
                 "repo": "best-of-react",
-                "stars": 1080,
+                "stars": 1079,
                 "topics": [
                   "ant-design",
                   "awesome",
@@ -393,7 +393,7 @@
             "open_issues": 80,
             "owner": "mkdocs",
             "repo": "catalog",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "best-of",
               "best-of-list",
@@ -417,7 +417,7 @@
                 "id": 484127372,
                 "language": "Shell",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-07T21:43:36Z",
+                "last_commit": "2026-11-08T21:58:05Z",
                 "open_issues": 5,
                 "owner": "lyz-code",
                 "repo": "best-of-digital-gardens",
@@ -479,7 +479,7 @@
                 "open_issues": 60,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4652,
+                "stars": 4655,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -527,7 +527,7 @@
             "open_issues": 4,
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "access-control",
               "auth",
@@ -650,8 +650,8 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-07T23:29:30Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-09T08:58:23Z",
+                "open_issues": 4,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
                 "stars": 81,
@@ -669,7 +669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:11:23.484Z",
+    "last_updated": "2026-11-09T14:20:28.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
