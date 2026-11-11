@@ -21,7 +21,7 @@
                 "open_issues": 59,
                 "owner": "lukasmasuch",
                 "repo": "best-of-ml-python",
-                "stars": 23860,
+                "stars": 23863,
                 "topics": [
                   "automl",
                   "chatgpt",
@@ -261,7 +261,7 @@
                 "open_issues": 23,
                 "owner": "lukasmasuch",
                 "repo": "best-of-react",
-                "stars": 1079,
+                "stars": 1080,
                 "topics": [
                   "ant-design",
                   "awesome",
@@ -479,7 +479,7 @@
                 "open_issues": 60,
                 "owner": "lukasmasuch",
                 "repo": "best-of-python",
-                "stars": 4654,
+                "stars": 4655,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -650,7 +650,7 @@
                 "id": 451259065,
                 "language": "Makefile",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-10T02:35:44Z",
+                "last_commit": "2026-11-11T00:27:15Z",
                 "open_issues": 5,
                 "owner": "thumbor",
                 "repo": "awesome-thumbor",
@@ -669,7 +669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:45:27.305Z",
+    "last_updated": "2026-11-11T12:56:43.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.",
